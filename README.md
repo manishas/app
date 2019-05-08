@@ -8,7 +8,7 @@ A simple Node JS application with unit tests and coverage reports using mocha
 and istanbul. It also does a docker build once CI posses and then pushes the image
 to JFrog artifactory.
 
-## Run CI for this repo on Shippable
+## Run CI for this repo on the new Shippable
 * Fork this repo into your local repo
 * Login into the [Continuous Integration Service](wwww.shippable.com)
 * Create an [integration](http://docs.shippable.com/platform/integration/jfrog-artifactoryKey/#jfrog-artifactory-integration) on shippable to your docker hub
